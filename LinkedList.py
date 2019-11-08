@@ -16,10 +16,10 @@ class LinkedList:
 
     def getLinkedList(self):
         temp = self.head
-        while temp:
-            print(temp.value, sep = " -> ")
-            temp = temp.next()
-        print(temp.value, sep = "")
+        while temp.next:
+            print(temp.value, end=" -> ")
+            temp = temp.next
+        print(temp.value, end="")
 
 
 myLinkedList = LinkedList()
