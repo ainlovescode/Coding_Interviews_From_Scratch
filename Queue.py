@@ -1,4 +1,4 @@
-# DATA STRUCTURES CHEATSHEET
+# DATA STRUCTURES CHEATSHEET - QUEUE
 # Compiled by @ainlovescode
 # Find me on GitHub, LinkedIn, Facebook and Instagram!
 
