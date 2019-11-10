@@ -25,10 +25,10 @@ def bst_insert(root, newNode):
 
 '''
 SAMPLE BST:
-          25
-     15          50
-  10    20    40   60
- 5 11 16 22 39 41 55 70
+          4
+     2          5
+  1    3    
+
 
 '''
 
@@ -54,6 +54,7 @@ def postorder(root): # left, right, root
     if root.right != None:
         postorder(root.right)
     print(root.val)
+    
 
 root = Node(4) 
 bst_insert(root, Node(5))
