@@ -5,37 +5,37 @@ As part of my preparation for coding interviews for 2020 graduate programs and r
 
 
 ## Data Structures
-[] Stacks
-    [] push
-    [] pop
-[] Queues
-    [] enqueue
-    [] dequeue
-[] LinkedList
-[] Hashmaps / Python Dictionaries
-    [] Cache
-[] Sets
-[] Trees
-    [] Binary Search Tree
-[] Heaps
-    [] Max heap
-    [] Min heap
-    [] heapify
-    [] heapsort
-[] Tries
-[] Graphs
+- [ ] Stacks
+    - [ ] push
+    - [ ] pop
+- [ ] Queues
+    - [ ] enqueue
+    - [ ] dequeue
+- [ ] LinkedList
+- [ ] Hashmaps / Python Dictionaries
+    - [ ] Cache
+- [ ] Sets
+- [ ] Trees
+    - [ ] Binary Search Tree
+- [ ] Heaps
+    - [ ] Max heap
+    - [ ] Min heap
+    - [ ] heapify
+    - [ ] heapsort
+- [ ] Tries
+- [ ] Graphs
 
 
 ## Algorithms
-[] Binary search
-    [] Preorder Traversal
-    [] Inorder Traversal
-    [] Postorder Traversal
-    [] Levelorder Traversal
-    [] Depth-first search
-    [] Breadth-first search
-[] Sorts
-    [] quicksort
-    [] mergesort
+- [ ] Binary search
+    - [ ] Preorder Traversal
+    - [ ] Inorder Traversal
+    - [ ] Postorder Traversal
+    - [ ] Levelorder Traversal
+    - [ ] Depth-first search
+    - [ ] Breadth-first search
+- [ ] Sorts
+    - [ ] quicksort
+    - [ ] mergesort
  
  
