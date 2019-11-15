@@ -5,18 +5,18 @@ As part of my preparation for coding interviews for 2020 graduate programs and r
 
 
 ## Data Structures
-- [ ] Stacks
-    - [ ] push
-    - [ ] pop
-- [ ] Queues
-    - [ ] enqueue
-    - [ ] dequeue
-- [ ] LinkedList
+- [x] Stacks
+    - [x] push
+    - [x] pop
+- [x] Queues
+    - [x] enqueue
+    - [x] dequeue
+- [x] LinkedList using Node
 - [ ] Hashmaps / Python Dictionaries
     - [ ] Cache
 - [ ] Sets
 - [ ] Trees
-    - [ ] Binary Search Tree
+    - [x] Binary Search Tree using Node
 - [ ] Heaps
     - [ ] Max heap
     - [ ] Min heap
@@ -28,14 +28,15 @@ As part of my preparation for coding interviews for 2020 graduate programs and r
 
 ## Algorithms
 - [ ] Binary search
-    - [ ] Preorder Traversal
-    - [ ] Inorder Traversal
-    - [ ] Postorder Traversal
+    - [x] Preorder Traversal
+    - [x] Inorder Traversal
+    - [x] Postorder Traversal
     - [ ] Levelorder Traversal
     - [ ] Depth-first search
     - [ ] Breadth-first search
 - [ ] Sorts
     - [ ] quicksort
     - [ ] mergesort
+    - [ ] bubblesort
  
  
